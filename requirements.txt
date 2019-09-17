@@ -1,0 +1,13 @@
+django
+
+djangorestframework
+django-cors-headers
+markdown
+django-filter
+
+pytest
+pytest-django
+pytest-cov
+mixer
+snapshottest
+
